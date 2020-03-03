@@ -25,5 +25,5 @@ Run this command in the application directory to run the test suite
 	php composer.phar test
 
 That's it! Now go build something cool.
-
+copyright('Copyright (c) 2014.');
 [project] (C) [date] [Enock Brown]
