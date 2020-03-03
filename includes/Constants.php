@@ -3,7 +3,7 @@
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'student');
+define('DB_NAME', 'locaahost');
  
 define('USER_CREATED', 101);
 define('USER_EXIST', 102);
